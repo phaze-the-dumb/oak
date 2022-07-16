@@ -1,0 +1,14 @@
+{
+  "name": "oakhttp",
+  "version": "0.0.1",
+  "description": "Smol Http Server",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Phaze#6193",
+  "license": "ISC"
+}
