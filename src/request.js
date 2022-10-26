@@ -1,4 +1,4 @@
-let methods = [ 'GET', 'POST', 'PUT', 'DELETE', 'TRACE' ];
+let methods = [ 'GET', 'POST', 'PUT', 'DELETE' ];
 
 class Request{
     constructor(){
